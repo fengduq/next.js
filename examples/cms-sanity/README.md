@@ -6,7 +6,7 @@ This starter is a statically generated blog that uses Next.js App Router for the
 
 The Studio connects to Sanity Content Lake, which gives you hosted content APIs with a flexible query language, on-demand image transformations, powerful patching, and more. You can use this starter to kick-start a blog or learn these technologies.
 
-## Features
+## Featureshhhhhhhhhhhhhhhhhhhhhhhhh
 
 - A performant, static blog with editable posts, authors, and site settings
 - A native and customizable authoring environment, accessible on `yourblog.com/studio`
